@@ -87,7 +87,7 @@ bash --version
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Shell-Scripting.git
+git clone https://github.com/shubham-rasal-123/Shell-Scripting.git
 ```
 
 ```bash
